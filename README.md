@@ -9,4 +9,5 @@ Jeg har her indelt besvarelserne for ugen i forskellige mapper så det (skulle :
 
 Og den sidste, er så selvfølgelig hvorfor i kan finde et link på mit domæne, og se at SSL er sat op. 
 Jeg har IKKE som ellers ønsket, været i stand til at uploade noget ift. DB fra uge 1 opgaverne. 
-Jeg aflverede ikke denne opgave, og er stadig i gang med at lave dem. 
+Jeg afleverede ikke denne opgave, og er stadig i gang med at lave dem. 
+
